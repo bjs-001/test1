@@ -5,6 +5,9 @@ public class test2 {
 		System.out.println("cgb1908");
 		System.out.println("cgb1909");
 		System.out.println("cgb1910");
+		System.out.println("cgb1910");
+		System.out.println("cgb1910");
+		System.out.println("cgb1910");
 		
 	}
 }
